@@ -1,6 +1,9 @@
 # newGitTest
 learning how to git
 
-Making Changes 
-
 Hello World
+
+more testing 
+
+lets see if this works
+
